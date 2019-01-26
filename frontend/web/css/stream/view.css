@@ -1,0 +1,25 @@
+.position-content-user{
+    color: #9A9A9A;
+    direction: ltr !important;
+    border: 1px solid rosybrown;
+    margin: 20px;
+    color: #0b124b;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 30px;
+    background-color: #58bdff;
+}
+.position-content-expert {
+    color: #9A9A9A;
+    direction: rtl !important;
+    border: 1px solid #0c001c;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: #01020a;
+    line-height: 30px;
+    background-color: #62ffc3;
+}
+.position-dl{
+    text-align: center;
+}

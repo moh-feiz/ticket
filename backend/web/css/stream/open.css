@@ -1,0 +1,14 @@
+.open-stream{
+    margin: 30px;
+    padding: 30px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    border: 1px solid wheat;
+    line-height: 40px;
+    direction: rtl;
+}
+
+.open-stream:hover{
+    background-color: #e0e0e0;
+
+}

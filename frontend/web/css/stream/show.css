@@ -1,0 +1,13 @@
+.show-stream{
+    margin: 30px;
+    padding: 30px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    border: 1px solid wheat;
+    border-radius: 10px;
+}
+
+.stream-show{
+    direction: rtl;
+
+}

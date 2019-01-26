@@ -1,0 +1,16 @@
+
+
+@font-face {
+    font-family: 'sans';
+
+    src: url('../../fonts/iransans.eot');
+    src: url('../../fonts/iransans.eot?#iefix') format('embedded-opentype'),
+    url('../../fonts/iransans.woff') format('woff'),
+    url('../../fonts/iransans.ttf') format('truetype');
+}
+body{
+    font-family: 'sans' !important;
+}
+a{
+    text-decoration: none !important;
+}
